@@ -4,7 +4,7 @@
 	"version": "1.0.0",
 	"dependencies": {
 		"mongodb": "3.1",
-		"formidable": "latest"
+		"formidable": "1.2.2"
 	},
 	"scripts": {
 		"start": "node server.js"
